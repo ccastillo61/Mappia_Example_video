@@ -1,0 +1,54 @@
+X,Y,institucio,num,tiponombre,domicilio,barrioloca,latitudy,longitudx,icon_url
+-58.3337249,-34.6590622,Escuela,"67",Guarda Costa Río Iguazu (Primaria),Pasaje Canalejas 2053,Villa Inflamable,-34.659062200000001,-58.333724900000000,./0.png
+-58.3333579,-34.6593356,Escuela,"931",Jardin de infantes,Pasaje Canalejas 2060,Villa Inflamable,-34.659335599999999,-58.333357900000003,./0.png
+-58.3487905,-34.6450161,Escuela,"122",Centro Municipal María Elena Walsh,Sgto. Ponce 790,Dock Sud,-34.645016099999999,-58.348790500000000,./0.png
+-58.3641678,-34.6481386,Escuela,"11",Jardín Maternal Nuestra Señora de Luján,"Pje. Peatonal 3, 1570",Isla Maciel,-34.648138600000003,-58.364167799999997,./0.png
+-58.3688257,-34.6532848,Escuela,JIM 3,"Jardín de Infantes ""Isla Maciel""",Espejo 1411,Isla Maciel,-34.653284800000002,-58.368825700000002,./0.png
+-58.3528778,-34.6540625,Escuela,JIM 12,"""El Hornerito""",25 de Mayo 1000,Dock Sud,-34.654062500000002,-58.352877800000002,./0.png
+-58.3474342,-34.6612152,Escuela,JIM 20,"""Arco Iris""",Suárez y Nuñez,Dock Sud,-34.661215200000001,-58.347434200000002,./0.png
+-58.3559542,-34.6571016,Escuela,JIM 21,"""Domingo Faustino Sarmiento""",Estanislao del Campo 948,Dock Sud,-34.657101599999997,-58.355954199999999,./0.png
+-58.3487905,-34.6450161,Escuela,JIM 27,,Sargento Ponce 790,Dock Sud,-34.645016099999999,-58.348790500000000,./0.png
+-58.3492184,-34.6532348,Escuela,Privada,Colegio Inmaculada Concepción,25 de mayo y Alem y Superi 1262,Dock Sud,-34.653234800000000,-58.349218399999998,./0.png
+-58.3453334,-34.6552583,Escuela,EGB 33,"""Jorge Newbery""",Ing. Huergo 1534,Dock Sud,-34.655258300000000,-58.345333400000001,./0.png
+-58.3525111,-34.6503482,Escuela,ESN 45,,Manuel Estevez 1000,Dock Sud,-34.650348200000003,-58.352511100000001,./0.png
+-58.3456817,-34.6500333,Escuela,ESB 28/35,Esteban de Luca,Av. Debenedetti 1338,Dock Sud,-34.650033299999997,-58.345681700000000,./0.png
+-58.3456817,-34.6500333,Escuela,ESB 46,,Ing. Luis A. Huergo 1534,Dock Sud,-34.650033299999997,-58.345681700000000,./0.png
+-58.3453334,-34.6552583,Escuela,ESB 18,,Vieytes 1590,Dock Sud,-34.655258300000000,-58.345333400000001,./0.png
+-58.3484449,-34.6568236,Escuela,E.E.T. n°1,"Escuela Técnica ""José Ingenieros",Alem 1910,Dock Sud,-34.656823600000003,-58.348444899999997,./0.png
+-58.3513526,-34.6574822,Escuela,Escuela Privada,Asoc. Metodista Juana Manso,Góngora 1014,Dock Sud,-34.657482199999997,-58.351352599999998,./0.png
+-58.3494319,-34.6552376,Escuela,Escuela Privada,Cristo Rey,25 de May 1262,Dock Sud,-34.655237600000000,-58.349431899999999,./0.png
+-58.3484837,-34.6570524,Escuela,Jardín 911,Gabriela Mistral,Alem 1950,Dock Sud,-34.657052399999998,-58.348483700000003,./0.png
+-58.3635274,-34.6539286,Escuela,EGB N°11,Julio A. Roca,Chacabuco 771,Dock Sud,-34.653928600000000,-58.363527400000002,./0.png
+-58.3513522,-34.6504184,Escuela,EGB n°9,Gral. M.N. Savio,Combatiente de Malvinas e Irala,Dock Sud,-34.650418400000000,-58.351352200000001,./0.png
+-58.3342568,-34.6579796,Sanidad,,Unidad Sanitaria N° 24 San Martin de Porres,Góngora 2207 y Galileo Galilei,Villa Inflamable,-34.657979599999997,-58.334256799999999,./1.png
+-58.3459077,-34.6617452,Sanidad,,Unidad Sanitaria Casella Piñeira,Debenedetti 2348 y Manuel Ocantos,Fuera de Villa Inflamable a 200m,-34.661745199999999,-58.345907699999998,./1.png
+-58.3459077,-34.6617452,Sanidad,,Unidad Sanitaria Ambiental Villa Inflamable (USAm),Debenedetti 2348 y Manuel Ocantos,Fuera de Villa Inflamable a 200m,-34.661745199999999,-58.345907699999998,./1.png
+-58.3480497,-34.6496126,Sanidad,,La Unidad Sanitaria N° 2,Mazzini 1325,Dock Sud,-34.649612599999998,-58.348049699999997,./1.png
+-58.3564224,-34.6399674,Sanidad,,Unidad Sanitaria N° 9,Montaña 172,Isla Maciel,-34.639967400000003,-58.356422400000000,./1.png
+-58.3513522,-34.6504184,Sanidad,,Unidad Sanitaria N° 15,Combatiente de Malvinas e Irala,Dock Sud,-34.650418400000000,-58.351352200000001,./1.png
+-58.3676351,-34.66682,Sanidad,,"Hospital Interzonal General Agudos ""PEDRO FIORITO"".",Avenida Belgrano 851,Avellaneda,-34.666820000000001,-58.367635100000001,./1.png
+-58.3335425,-34.6579899,Org. Civil,,SOFOMECO Sociedad de fomento (espacio de la USAM),Góngora y Canalejas,Villa Inflamable,-34.657989899999997,-58.333542500000000,./2.png
+-58.3313152,-34.6580059,Org. Civil,,"Polideportivo Municipal ""Villa Inflamable""",Gaona y Pasaje Canalejas,Villa Inflamable,-34.658005899999999,-58.331315199999999,./2.png
+-58.3506396,-34.6551374,Org. Civil,,Consejo Vecinal Dock Sud,Ing. Huergo 1162,Dock Sud,-34.655137400000001,-58.350639600000001,./2.png
+-58.3462813,-34.6747371,Org. Civil,,Club Soc. y Deportivo José de San Martín,Av. Debenedetti 3450,Dock Sud,-34.674737100000002,-58.346281300000001,./2.png
+-58.3552577,-34.6413765,Org. Civil,,Club Soc. y Deportivo Sol de Mayo,Montaña 359,Dock Sud,-34.641376500000000,-58.355257700000003,./2.png
+-58.3487014,-34.6488802,Org. Civil,,Club Sportivo Dock Sud,L. N. Alem 1255,Dock Sud,-34.648880200000001,-58.348701400000003,./2.png
+-58.3357589,-34.6603425,Comedor,,Comedor Carita de Ángel,Malabia y Campana,Villa Inflamable,-34.660342499999999,-58.335758900000002,./3.png
+-58.3341852,-34.6613879,Comedor,,Comedor Mis Angelitos,Malabia (entre Ocantos y Campana),Villa Inflamable,-34.661387900000001,-58.334185200000000,./3.png
+-58.3371658,-34.6616261,Comedor,,Comedor y Merendero La Fiorella (barrios de Pie?),Larroque 70,Villa Inflamable,-34.661626099999999,-58.337165800000001,./3.png
+-58.3344421,-34.6603033,Comedor,,Comedor Jorgito,Canalejas y Campana,Villa Inflamable,-34.660303300000002,-58.334442099999997,./3.png
+-58.3415491,-34.6625668,Comedor,,Comedor Pie Pequeño,Manuel Ocantos (esquina Morse),Villa Inflamable,-34.662566800000000,-58.341549100000002,./3.png
+-58.3337249,-34.6590622,Comedor,,Punto Cultural y Salón de usos múltiples,Canalejas 2053,Villa Inflamable,-34.659062200000001,-58.333724900000000,./3.png
+-58.3342303,-34.6568449,Religiosa,,Iglesia Católica San Martín de Porres,Galileo Galilei y Sargento Ponce,Villa Inflamable,-34.656844900000003,-58.334230300000002,./4.png
+-58.3350776,-34.6626218,Religiosa,,Iglesia de Justicia y Verdad,Ocantos entre Malabia y Larroque,Villa Inflamable,-34.662621799999997,-58.335077599999998,./4.png
+-58.3362321,-34.6626169,Religiosa,,Iglesia Evangélica,Larroque y Ocantos,Villa Inflamable,-34.662616900000003,-58.336232099999997,./4.png
+-58.3493822,-34.6484126,Religiosa,,Sagrado Corazón de Jesús,Manuel Estévez 1235,Dock Sud,-34.648412600000000,-58.349382200000001,./4.png
+-58.3464067,-34.6633288,Religiosa,,Santa Catalina de Siena,Debenedetti 2597,Dock Sud,-34.663328800000002,-58.346406700000003,./4.png
+-58.3537186,-34.654033,Religiosa,,Inmaculada Corazón de María,25 de Mayo y Figuero B° Las Torres,Dock Sud,-34.654032999999998,-58.353718600000001,./4.png
+-58.3480612,-34.6462924,Religiosa,,Comunidades Hermanas Dominicanas de la Unión Santo Tomás de Aquino,Sgto. Ponce 800,Dock Sud,-34.646292400000000,-58.348061199999997,./4.png
+-58.3492503,-34.654047,Religiosa,,Comunidades Hijas de la caridad de San Vicente de Paul de Zagreb,25 de Mayo 1262,Dock Sud,-34.654046999999998,-58.349250300000001,./4.png
+-58.3458734,-34.6553934,Seguridad,,Comisaría 3ra.,Debenedetti y Huergo,,-34.655393400000001,-58.345873400000002,./5.png
+-58.3530313,-34.6541417,Seguridad,,Policia local de Avellaneda delegación Dock Sud,25 de Mayo 961,,-34.654141699999997,-58.353031299999998,./5.png
+0,0,,,,,,,,
+-58.3441007652279,-34.6583562293784,,,,,,,,
+-58.33735859298,-34.6591307823151,Org. Civil,,Asociación Civil Sembrando Juntos y Centro de Acción Legal Comunitaria,Génova 2030,Villa Inflamable,-34.659234900000001,-58.340044100000000,./2.png
